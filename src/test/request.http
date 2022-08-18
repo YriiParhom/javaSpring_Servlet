@@ -1,0 +1,10 @@
+# curl -i localhost:8082
+GET localhost:8082
+
+###
+
+# curl -i localhost:8082/
+GET localhost:8082/
+
+###
+
